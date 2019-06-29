@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blockchaindemo/static/css/main.4d3a7fac.chunk.css",
+    "main.js": "/blockchaindemo/static/js/main.719fd959.chunk.js",
+    "runtime~main.js": "/blockchaindemo/static/js/runtime~main.e5bf1d5d.js",
+    "static/css/2.9af047b6.chunk.css": "/blockchaindemo/static/css/2.9af047b6.chunk.css",
+    "static/js/2.f2946e63.chunk.js": "/blockchaindemo/static/js/2.f2946e63.chunk.js",
+    "index.html": "/blockchaindemo/index.html",
+    "precache-manifest.00b509026dce38384f5e5af92ca9c438.js": "/blockchaindemo/precache-manifest.00b509026dce38384f5e5af92ca9c438.js",
+    "service-worker.js": "/blockchaindemo/service-worker.js",
+    "static/media/index.css": "/blockchaindemo/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
